@@ -24,7 +24,7 @@ This project analyzes Netflix’s Movies & TV Shows dataset to discover trends i
 - Genre (listed_in) popularity analysis
 - Rating analysis
 
-## 🖥 Dashboard Features
+# Dashboard Features
 - **KPIs:** Total titles, total movies, total TV shows, top country, top genre
 - **Charts:**
   - Release trend over years
@@ -32,13 +32,13 @@ This project analyzes Netflix’s Movies & TV Shows dataset to discover trends i
   - Most frequent genres
 - **Filters:** Content type, country, genre
 
-## 📈 Insights
+# Insights
 - Majority of Netflix content is **movies**.
 - The USA and India are the top contributors.
 - Peak content additions occurred between **2018–2020**.
 - Stand-up comedy and documentaries have grown significantly in recent years.
 
-## 🛠 Tools Used
+# Tools Used
 - **Python** (Pandas, NumPy) – Data cleaning & preprocessing
 - **Power BI** – Dashboard creation & visualization
 - **Kaggle Dataset** – Data source
